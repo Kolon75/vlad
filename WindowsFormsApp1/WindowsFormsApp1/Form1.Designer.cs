@@ -75,6 +75,7 @@
             this.button1.TabIndex = 4;
             this.button1.Text = "Решить";
             this.button1.UseVisualStyleBackColor = true;
+      
             // 
             // button2
             // 

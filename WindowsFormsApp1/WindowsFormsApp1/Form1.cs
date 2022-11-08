@@ -52,5 +52,7 @@ namespace WindowsFormsApp1
             textBox2.Clear();
             textBox3.Clear();
         }
+
+       
     }
 }
